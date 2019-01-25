@@ -47,7 +47,7 @@ Project/Vortex/SourceArt/**/*.tga
 
 # Binary Files
 Project/Vortex/Binaries/*
-Project/Vortex/Plugins/*/Binaries/*
+#Project/Vortex/Plugins/*/Binaries/*
 
 # Builds
 Build/*
