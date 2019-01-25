@@ -72,3 +72,5 @@ Project/Vortex/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Project/Vortex/DerivedDataCache/*
+
+Project/Vortex/Saved/*
