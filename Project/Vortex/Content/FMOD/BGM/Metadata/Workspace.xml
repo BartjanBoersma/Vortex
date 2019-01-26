@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Workspace" id="{5408e8e9-9bea-4ccf-84d0-02947ec74a32}">
+        <property name="builtBanksOutputDirectory">
+            <value>../../../../../Documents/GitHub/Vortex/Project/Vortex/Content/FMOD</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{84aff86c-623f-4f9d-963d-d0bebed1e70d}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{7843f065-8af5-4258-a8cd-fdc7787a6162}</destination>
+        </relationship>
+        <relationship name="masterEffectPresetFolder">
+            <destination>{51c1b008-1846-4e92-a5b7-abbd5cb667e2}</destination>
+        </relationship>
+        <relationship name="masterParameterPresetFolder">
+            <destination>{2628302d-f5ef-4b78-8841-45277eebf885}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{a362d922-127a-45d9-8d78-4916a6d595b6}</destination>
+        </relationship>
+        <relationship name="masterAssetFolder">
+            <destination>{34a1694c-2b70-4edc-af1d-8155c70f070f}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{022d6bf3-5f03-44cd-a2a0-c9dda586719d}</destination>
+        </relationship>
+        <relationship name="platforms">
+            <destination>{e68b9e25-a280-437b-bc70-fae0e30e7cc8}</destination>
+        </relationship>
+    </object>
+</objects>
