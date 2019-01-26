@@ -68,7 +68,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Project/Vortex/Intermediate/*
-Project/Vortex/Plugins/*
+#Project/Vortex/Plugins/*
 
 # Cache files for the editor to use
 Project/Vortex/DerivedDataCache/*
